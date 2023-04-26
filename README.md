@@ -38,6 +38,7 @@ The performance of four methods was shown in the following table.
 |  SnapATAC | 0.448 | 0.622 | 0.627 | 0.687 |
 </div>  
 
+You can implement the result using the source code from scEpiEnsemble_pipeline_html.ipynb.
 
 ## About 
 
