@@ -45,6 +45,6 @@ You can implement the result using the source code from scEpiEnsemble_pipeline_h
 
 If you are interested in the scEpiTools and want to contribute any articles or tools to our database, please [contact us](http://health.tsinghua.edu.cn/scepitools/about.php).
 
-If you use scEpiTools in your work, please cite our publication: 
+If you use scEpiTools in your work, please kindly cite our work: 
 
 > scEpiTools: a database to comprehensively interrogate analytic tools for single-cell epigenomic data
