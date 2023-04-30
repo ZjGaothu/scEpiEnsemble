@@ -47,4 +47,4 @@ If you are interested in the scEpiTools and want to contribute any articles or t
 
 If you use scEpiTools in your work, please kindly cite our work: 
 
-> scEpiTools: a database to comprehensively interrogate analytic tools for single-cell epigenomic data
+> Gao Z, Chen X, Li Z, Cui X, Chen S, Jiang R. scEpiTools: a database to comprehensively interrogate analytic tools for single-cell epigenomic data. bioRxiv. 2023:2023.04.27.538652.
